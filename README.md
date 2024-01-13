@@ -82,4 +82,9 @@ Có nhiều tiêu chí/thước đo được dùng để phân tích hiệu su�
 - i-index (i-10, i-100, i-200): i số lượng công bố được trích dẫn ít nhất i lần (ví dụ: i = 10, 100, 200, v.v.)
 
 ### Bản đồ khoa học (Science Mapping)
-Lập bản đồ khoa học xem xét mối quan hệ giữa các thành phần nghiên cứu. Việc phân tích liên quan đến sự tương tác trí tuệ và kết nối cấu trúc giữa các thành phần nghiên cứu. Các kỹ thuật lập bản đồ khoa học bao gồm phân tích trích dẫn, phân tích đồng trích dẫn, ghép nối thư mục, phân tích đồng từ và phân tích đồng tác giả. Những kỹ thuật như vậy, khi kết hợp với phân tích mạng, là công cụ trình bày cấu trúc trắc lượng thư mục và cấu trúc trí tuệ của lĩnh vực nghiên cứu 
+Lập bản đồ khoa học xem xét mối quan hệ giữa các thành phần nghiên cứu. Việc phân tích liên quan đến sự tương tác trí tuệ và kết nối cấu trúc giữa các thành phần nghiên cứu. Các kỹ thuật lập bản đồ khoa học bao gồm phân tích trích dẫn, phân tích đồng trích dẫn, ghép nối thư mục, phân tích đồng từ và phân tích đồng tác giả. Những kỹ thuật như vậy, khi kết hợp với phân tích mạng, là công cụ trình bày cấu trúc trắc lượng thư mục và cấu trúc trí tuệ của lĩnh vực nghiên cứu
+1. Phân tích trích dẫn (citation analysis)
+2. Phân tích đồng trích dẫn (co-citation analysis)
+3. Đồng/Ghép thư mục (bibliographic coupling)
+4. Phân tích từ đồng nghĩa (co-word analysis)
+5. Phân tích đồng tác giả (co-authorship analysis)
