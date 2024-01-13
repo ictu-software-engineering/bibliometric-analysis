@@ -84,7 +84,9 @@ Có nhiều tiêu chí/thước đo được dùng để phân tích hiệu su�
 ### Bản đồ khoa học (Science Mapping)
 Lập bản đồ khoa học xem xét mối quan hệ giữa các thành phần nghiên cứu. Việc phân tích liên quan đến sự tương tác trí tuệ và kết nối cấu trúc giữa các thành phần nghiên cứu. Các kỹ thuật lập bản đồ khoa học bao gồm phân tích trích dẫn, phân tích đồng trích dẫn, ghép nối thư mục, phân tích đồng từ và phân tích đồng tác giả. Những kỹ thuật như vậy, khi kết hợp với phân tích mạng, là công cụ trình bày cấu trúc trắc lượng thư mục và cấu trúc trí tuệ của lĩnh vực nghiên cứu
 1. Phân tích trích dẫn (citation analysis)
-2. Phân tích đồng trích dẫn (co-citation analysis)
-3. Đồng/Ghép thư mục (bibliographic coupling)
-4. Phân tích từ đồng nghĩa (co-word analysis)
-5. Phân tích đồng tác giả (co-authorship analysis)
+   - Mục đích: Để phân tích mối quan hệ giữa các ấn phẩm bằng cách xác định các ấn phẩm có ảnh hưởng nhất trong một lĩnh vực nghiên cứu.
+   - Ví dụ mẫu: [citation analysis](https://www.sciencedirect.com/science/article/pii/S0148296321003155#b0275)
+3. Phân tích đồng trích dẫn (co-citation analysis)
+4. Đồng/Ghép thư mục (bibliographic coupling)
+5. Phân tích từ đồng nghĩa (co-word analysis)
+6. Phân tích đồng tác giả (co-authorship analysis)
