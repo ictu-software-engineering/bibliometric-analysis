@@ -26,5 +26,28 @@ Vì phân tích tổng hợp và phân tích trắc lượng thư mục đều c
 
 Tóm lại, việc sử dụng bất kỳ phương pháp nào trong ba phương pháp xem xét được thảo luận ở đây đều phụ thuộc vào mục tiêu của việc xem xét cũng như tầm quan trọng và tính chất của tài liệu thu thập được. Tuy nhiên, các phương pháp đánh giá này vẫn bổ sung cho nhau và mang lại những lợi thế riêng cho các học giả quan tâm đến việc sử dụng chúng.
 
+1. Phương pháp trắc lượng thư mục (bibliometric-analysis)
+   - Mục tiêu: Tóm tắt số lượng lớn dữ liệu trắc lượng thư mục để trình bày trạng thái cấu trúc trí tuệ và các xu hướng mới nổi của một chủ đề hoặc lĩnh vực nghiên cứu.
+   - Sử dụng khi: (1) Khi phạm vi xem xét rộng. (2) Khi tập dữ liệu quá lớn để xem xét thủ công.
+   - Không nên sử dụng khi: (2) Khi phạm vi xem xét hẹp. (2) Khi tập dữ liệu đủ nhỏ và có thể quản lý được để nội dung của nó có thể được xem xét thủ công
+   - Phạm vi: Rộng
+   - Dữ liệu: Lớn
+   - Phương pháp: (1) Định lượng (đánh giá và giải thích). (2) Định tính (chỉ giải thích)
+3. Phương pháp phân tích tổng hợp (meta-analysis review)
+  - Mục tiêu: Tóm tắt bằng chứng thực nghiệm về mối quan hệ giữa các biến đồng thời khám phá các mối quan hệ chưa được nghiên cứu trong các nghiên cứu hiện có.
+  - Sử dụng khi: (1) Khi trọng tâm của việc đánh giá là tóm tắt kết quả thay vì tập trung vào nội dung có thể rộng hoặc cụ thể. (2) Khi các nghiên cứu trong lĩnh vực này là đồng nhất. (3) Khi số lượng nghiên cứu đồng nhất sẵn có đủ cao. (4) Khi số lượng nghiên cứu đồng nhất còn lại sau khi loại bỏ các nghiên cứu chất lượng thấp đủ cao
+  - Không nên sử dụng khi: (1) Khi các nghiên cứu trong lĩnh vực này không đồng nhất. (2) Khi số lượng nghiên cứu đồng nhất tương đối thấp. (3) Khi số lượng nghiên cứu đồng nhất chất lượng cao tương đối thấp.
+  - Phạm vi: Cụ thể 
+  - Dữ liệu: Nhỏ nhưng chất lượng
+  - Phương pháp: Định lượng (đánh giá và giải thích)
+5. Phương pháp phân tích tài liệu có hệ thống (systematic literature review)
+- Mục tiêu: Tóm tắt và tổng hợp những phát hiện của tài liệu hiện có về một chủ đề hoặc lĩnh vực nghiên cứu.
+- Sử dụng khi: (1) Khi phạm vi xem xét là cụ thể. (2) Khi tập dữ liệu đủ nhỏ và có thể quản lý được để nội dung của nó có thể được xem xét thủ công.
+- Không nên sử dụng khi: (1) Khi phạm vi xem xét rộng. (2) Khi tập dữ liệu quá lớn để xem xét thủ công.
+- Phạm vi: Hẹp
+- Dữ liệu: Nhỏ
+- Phương pháp: Định tính (đánh giá và giải thích)
+## Các công cụ và kỹ thuật dùng để phân tích trắc lượng thư mục
+Các kỹ thuật phân tích trắc lượng thư mục được thể hiện qua hai loại: (1) phân tích hiệu suất và (2) lập bản đồ khoa học. Về bản chất, phân tích hiệu suất tính đến sự đóng góp của các thành phần nghiên cứu, trong khi việc lập bản đồ khoa học tập trung vào mối quan hệ giữa các thành phần nghiên cứu. Các phần phụ tiếp theo làm sáng tỏ các kỹ thuật có sẵn để phân tích hiệu suất và lập bản đồ khoa học
 
 
