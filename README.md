@@ -52,3 +52,34 @@ Các kỹ thuật phân tích trắc lượng thư mục được thể hiện q
 
 ![Toolbox](/images/tool_technique.jpeg)
 
+### Phân tích hiệu suất (Performance analysis)
+Phân tích hiệu suất xem xét sự đóng góp của các thành phần nghiên cứu cho một lĩnh vực nhất định. Phân tích mô tả là đặc điểm nổi bật của dạng nghiên cứu này. Phân tích hiệu suất có thể được tìm thấy trong hầu hết các đánh giá tổng quan, ngay cả trong những đánh giá không tham gia lập bản đồ khoa học, bởi vì thông lệ tiêu chuẩn trong các đánh giá là trình bày hiệu suất của các thành phần nghiên cứu khác nhau (ví dụ: tác giả, tổ chức, quốc gia và tạp chí) trong lĩnh vực này, tương tự như kiến thức nền tảng hoặc hồ sơ của những người tham gia thường được trình bày trong nghiên cứu thực nghiệm mặc dù mang tính phân tích nhiều hơn.
+
+Có nhiều tiêu chí/thước đo được dùng để phân tích hiệu suất. Các thước đo nổi bật nhất là số lượng ấn phẩm và trích dẫn mỗi năm hoặc theo mỗi thành phần nghiên cứu, trong đó ấn phẩm là đại diện cho năng suất, trong khi trích dẫn là thước đo tác động và ảnh hưởng. Các tiêu chí khác như trích dẫn trên mỗi bài báo và chỉ số h kết hợp cả trích dẫn và bài báo để đo lường hiệu suất của các thành phần nghiên cứu. Phân tích, mặc dù mang tính mô tả, thừa nhận tầm quan trọng của các thành phần khác nhau trong một lĩnh vực nghiên cứu. 
+1. Các số liệu liên quan đến xuất bản
+- Tổng số công bố (TP): Tổng công bố của thành phần nghiên cứu
+- Các công bố của giới học thuật (academia) (TP-A): Tổng số công bố của các thành phần nghiên cứu từ giới học thuật
+- Công bố từ ngành công nghiệp (industry) (TP-I): Tổng số ấn phẩm nghiên cứu từ ngành
+- Các công bố từ sự hợp tác giữa giới học thuật và ngành công nghiệp (TP-AI): Tổng số ấn phẩm hợp tác nghiên cứu từ sự hợp tác giữa giới học thuật và ngành công nghiệp
+- Số tác giả đóng góp (NCA): Tổng số tác giả đóng góp cho các công bố của đối tượng nghiên cứu
+- Các công bố một tác giả (SA):  Tổng số ấn phẩm độc quyền theo lĩnh vực nghiên cứu
+- Công bố đồng tác giả (CA): Tổng số bài báo đồng tác giả theo đối tượng nghiên cứu
+- Số năm hoạt động xuất bản (NAY): Số năm thành viên nghiên cứu ghi lại một ấn phẩm
+- Năng suất trên mỗi năm xuất bản hoạt động (PAY): TP → NAY
+
+2. Số liệu liên quan đến trích dẫn
+- Tổng số trích dẫn (TC): Tổng số trích dẫn của lĩnh vực nghiên cứu
+- Số trích dẫn trung bình (AC): Số trích dẫn trung bình (ví dụ: trên mỗi bài báo, mỗi năm, mỗi kỳ) 
+
+3. Các số liệu liên quan đến trích dẫn và xuất bản
+- Chỉ số hợp tác (CI): (NCA ÷ TP) ÷ TP (tức là mức độ hợp tác của đối tượng nghiên cứu)
+- Hệ số cộng tác (CC): 1 – (TP ÷ NCA) (tức là chuẩn hóa mức độ cộng tác của tác giả trong khoảng từ 0 đến 1)
+- Số công bố được trích dẫn (NCP):  Số công bố của thành phần nghiên cứu được trích dẫn
+- Tỷ lệ công bố được trích dẫn (PCP): NCP → TP
+- Trích dẫn trên mỗi ấn phẩm được trích dẫn (CCP): TC cho NCP
+- h-index (h): h số lượng ấn phẩm được trích dẫn ít nhất h lần (tức là thước đo mức độ ảnh hưởng)
+- g-index (g):  g số lượng ấn phẩm nhận được ít nhất g2 trích dẫn (tức là thước đo tác động)
+- i-index (i-10, i-100, i-200): i số lượng công bố được trích dẫn ít nhất i lần (ví dụ: i = 10, 100, 200, v.v.)
+
+### Bản đồ khoa học (Science Mapping)
+Lập bản đồ khoa học xem xét mối quan hệ giữa các thành phần nghiên cứu. Việc phân tích liên quan đến sự tương tác trí tuệ và kết nối cấu trúc giữa các thành phần nghiên cứu. Các kỹ thuật lập bản đồ khoa học bao gồm phân tích trích dẫn, phân tích đồng trích dẫn, ghép nối thư mục, phân tích đồng từ và phân tích đồng tác giả. Những kỹ thuật như vậy, khi kết hợp với phân tích mạng, là công cụ trình bày cấu trúc trắc lượng thư mục và cấu trúc trí tuệ của lĩnh vực nghiên cứu 
