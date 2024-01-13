@@ -50,4 +50,5 @@ Tóm lại, việc sử dụng bất kỳ phương pháp nào trong ba phương 
 ## Các công cụ và kỹ thuật dùng để phân tích trắc lượng thư mục
 Các kỹ thuật phân tích trắc lượng thư mục được thể hiện qua hai loại: (1) phân tích hiệu suất và (2) lập bản đồ khoa học. Về bản chất, phân tích hiệu suất tính đến sự đóng góp của các thành phần nghiên cứu, trong khi việc lập bản đồ khoa học tập trung vào mối quan hệ giữa các thành phần nghiên cứu. Các phần phụ tiếp theo làm sáng tỏ các kỹ thuật có sẵn để phân tích hiệu suất và lập bản đồ khoa học
 
+![Toolbox](/images/tool_technique.jpeg)
 
