@@ -87,13 +87,14 @@ Lập bản đồ khoa học xem xét mối quan hệ giữa các thành phần 
    - Mục đích: Để phân tích mối quan hệ giữa các ấn phẩm bằng cách xác định các ấn phẩm có ảnh hưởng nhất trong một lĩnh vực nghiên cứu.
    - Ví dụ mẫu: [citation analysis](https://journals.lww.com/jcma/Fulltext/2022/03000/Classification_and_citation_analysis_of_the_100.20.aspx)
 3. Phân tích đồng trích dẫn (co-citation analysis)
-   - Mục đích:
+   - Mục đích: Phân tích mối quan hệ giữa các bài báo được trích dẫn để hiểu sự phát triển của các chủ đề nền tảng trong một lĩnh vực nghiên cứu.
    - Ví dụ mẫu: [co-citation analysis](https://files.eric.ed.gov/fulltext/EJ1260330.pdf)
 5. Đồng/Ghép thư mục (bibliographic coupling)
-   - Mục đích:
+   - Mục đích: Để phân tích mối quan hệ giữa các bài báo trích dẫn để hiểu sự phát triển định kỳ hoặc hiện tại của các chủ đề trong một lĩnh vực nghiên cứu.
    - Ví dụ mẫu: [bibliographic coupling](https://www.tandfonline.com/doi/pdf/10.1080/23311975.2022.2124594)
 7. Phân tích từ đồng nghĩa (co-word analysis)
-   - Mục đích:
+   - Mục đích: Để khám phá mối quan hệ hiện tại hoặc tương lai giữa các chủ đề trong lĩnh vực nghiên cứu bằng cách tập trung vào nội dung văn bản của chính bài báo đó
    - Ví dụ mẫu: [co-word](https://www.sciencedirect.com/science/article/pii/S0148296321007505)
 9. Phân tích đồng tác giả (co-authorship analysis)
+    - Mục đích: Để kiểm tra các tương tác hoặc mối quan hệ xã hội giữa các tác giả và các đơn vị của họ và các tác động tương đương đối với sự phát triển của lĩnh vực nghiên cứu.
     - Ví dụ mẫu: [co-authorship analysis](https://publications.aston.ac.uk/id/eprint/43903/1/Ariel_Social_network_analysis_IoT_Elsevier_ver2A_accepted.pdf)
