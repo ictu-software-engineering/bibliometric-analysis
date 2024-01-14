@@ -86,9 +86,15 @@ Lập bản đồ khoa học xem xét mối quan hệ giữa các thành phần 
 1. Phân tích trích dẫn (citation analysis)
    - Mục đích: Để phân tích mối quan hệ giữa các ấn phẩm bằng cách xác định các ấn phẩm có ảnh hưởng nhất trong một lĩnh vực nghiên cứu.
    - Ví dụ mẫu: [citation analysis](https://journals.lww.com/jcma/Fulltext/2022/03000/Classification_and_citation_analysis_of_the_100.20.aspx)
+
+Phân tích trích dẫn là một kỹ thuật cơ bản để lập bản đồ khoa học hoạt động dựa trên giả định rằng các trích dẫn phản ánh mối liên kết trí tuệ giữa các bài báo được hình thành khi một bài báo này trích dẫn bài báo kia. Trong phân tích này, tác động của một bài báo được xác định bởi số lượng trích dẫn mà nó nhận được. Việc phân tích cho phép xác định chắc chắn các bài báo có ảnh hưởng nhất trong một lĩnh vực nghiên cứu. Mặc dù có nhiều phương pháp khác nhau (ví dụ: số liệu mạng) để xác định tầm quan trọng của các bài báo trong lĩnh vực nghiên cứu, thước đo khách quan và đơn giản nhất về tác động của nó là trích dẫn của nó. Do đó, bằng cách sử dụng các trích dẫn, người ta có thể phân tích các bài báo có ảnh hưởng nhất trong một lĩnh vực nghiên cứu để hiểu rõ hơn về động lực trí tuệ của lĩnh vực đó.
+
 3. Phân tích đồng trích dẫn (co-citation analysis)
    - Mục đích: Phân tích mối quan hệ giữa các bài báo được trích dẫn để hiểu sự phát triển của các chủ đề nền tảng trong một lĩnh vực nghiên cứu.
    - Ví dụ mẫu: [co-citation analysis](https://files.eric.ed.gov/fulltext/EJ1260330.pdf)
+  
+Phân tích đồng trích dẫn là một kỹ thuật lập bản đồ khoa học trong đó giả định các bài báo được trích dẫn cùng nhau thường xuyên có chủ đề tương tự nhau. Phân tích có thể được sử dụng để tiết lộ cấu trúc trí tuệ của một lĩnh vực nghiên cứu, chẳng hạn như các chủ đề cơ bản. Trong mạng đồng trích dẫn, hai bài báo được kết nối với nhau khi chúng cùng xuất hiện trong danh sách tham khảo của bài báo khác. Lợi ích của việc sử dụng phân tích đồng trích dẫn là ngoài việc tìm kiếm các bài báo có ảnh hưởng nhất, các học giả còn có thể khám phá các cụm chủ đề. Ở đây, các cụm chuyên đề được hình thành dựa trên các bài báo được trích dẫn. Tuy nhiên, phân tích đồng trích dẫn chỉ tập trung vào các bài báo được trích dẫn nhiều và loại bỏ các bài báo mới xuất bản hoặc nằm ngoài các cụm chủ đề của nó. Theo nghĩa đó, phân tích đồng trích dẫn phù hợp với các học giả muốn khám phá các bài báo có ảnh hưởng sâu rộng và nền tảng kiến thức.
+
 5. Đồng/Ghép thư mục (bibliographic coupling)
    - Mục đích: Để phân tích mối quan hệ giữa các bài báo trích dẫn để hiểu sự phát triển định kỳ hoặc hiện tại của các chủ đề trong một lĩnh vực nghiên cứu.
    - Ví dụ mẫu: [bibliographic coupling](https://www.tandfonline.com/doi/pdf/10.1080/23311975.2022.2124594)
