@@ -85,8 +85,15 @@ Có nhiều tiêu chí/thước đo được dùng để phân tích hiệu su�
 Lập bản đồ khoa học xem xét mối quan hệ giữa các thành phần nghiên cứu. Việc phân tích liên quan đến sự tương tác trí tuệ và kết nối cấu trúc giữa các thành phần nghiên cứu. Các kỹ thuật lập bản đồ khoa học bao gồm phân tích trích dẫn, phân tích đồng trích dẫn, ghép nối thư mục, phân tích đồng từ và phân tích đồng tác giả. Những kỹ thuật như vậy, khi kết hợp với phân tích mạng, là công cụ trình bày cấu trúc trắc lượng thư mục và cấu trúc trí tuệ của lĩnh vực nghiên cứu
 1. Phân tích trích dẫn (citation analysis)
    - Mục đích: Để phân tích mối quan hệ giữa các ấn phẩm bằng cách xác định các ấn phẩm có ảnh hưởng nhất trong một lĩnh vực nghiên cứu.
-   - Ví dụ mẫu: [citation analysis](https://www.sciencedirect.com/science/article/pii/S0148296321003155#b0275)
+   - Ví dụ mẫu: [citation analysis](https://journals.lww.com/jcma/Fulltext/2022/03000/Classification_and_citation_analysis_of_the_100.20.aspx)
 3. Phân tích đồng trích dẫn (co-citation analysis)
-4. Đồng/Ghép thư mục (bibliographic coupling)
-5. Phân tích từ đồng nghĩa (co-word analysis)
-6. Phân tích đồng tác giả (co-authorship analysis)
+   - Mục đích:
+   - Ví dụ mẫu: [co-citation analysis](https://files.eric.ed.gov/fulltext/EJ1260330.pdf)
+5. Đồng/Ghép thư mục (bibliographic coupling)
+   - Mục đích:
+   - Ví dụ mẫu: [bibliographic coupling](https://www.tandfonline.com/doi/pdf/10.1080/23311975.2022.2124594)
+7. Phân tích từ đồng nghĩa (co-word analysis)
+   - Mục đích:
+   - Ví dụ mẫu: [co-word](https://www.sciencedirect.com/science/article/pii/S0148296321007505)
+9. Phân tích đồng tác giả (co-authorship analysis)
+    - Ví dụ mẫu: [co-authorship analysis](https://publications.aston.ac.uk/id/eprint/43903/1/Ariel_Social_network_analysis_IoT_Elsevier_ver2A_accepted.pdf)
