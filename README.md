@@ -120,3 +120,15 @@ Phân tích đồng tác giả xem xét sự tương tác giữa các học gi�
 
 ## Công cụ phân tích
 Chúng ta có hàng loạt các công cụ như: [VOSviewer](https://www.vosviewer.com), bibliometrix package in R, Bibexcel, Pajek, Gephi, SciMat, Sci2, and UCINET
+## Các câu hỏi nghiên cứu
+1. What Fields of Knowledge do Evaluation Theorists Draw Upon in Their Publications? [Phân tích](https://escholarship.org/content/qt2c5156kx/qt2c5156kx.pdf)
+2. What Fields Draw Upon the Published Works of Evaluation Theorists in Their Work? [Phân tích](https://escholarship.org/content/qt2c5156kx/qt2c5156kx.pdf)
+3. What are the current publication trends in financial literacy in terms of time, journals, disciplines, authors, affiliated countries and institutions, type of study and economy? [Phân tích](https://www.thestraughtergroup.org/wp-content/uploads/2022/09/A-Systemic-Review-of-Financial-Literacy.pdf)
+4. Which are the influential studies and themes of research in this domain? [Phân tích](https://www.thestraughtergroup.org/wp-content/uploads/2022/09/A-Systemic-Review-of-Financial-Literacy.pdf)
+5. What is the intellectual structure of financial literacy research, how has it evolved over the years and what are the recent
+research trends in this domain? [Phân tích](https://www.thestraughtergroup.org/wp-content/uploads/2022/09/A-Systemic-Review-of-Financial-Literacy.pdf)
+6. What are the gaps and areas for future research? [Phân tích](https://www.thestraughtergroup.org/wp-content/uploads/2022/09/A-Systemic-Review-of-Financial-Literacy.pdf)
+7. How has the business and management literature addressing entrepreneurial universities evolved so far? [Phân tích](https://www.sciencedirect.com/science/article/pii/S0040162520313482)
+8. What structures characterise the business and management literature about entrepreneurial universities? [Phân tích](https://www.sciencedirect.com/science/article/pii/S0040162520313482)
+9. What are the possible future trends for research on entrepreneurial universities within the business and management research fields? [Phân tích](https://www.sciencedirect.com/science/article/pii/S0040162520313482)
+10. 
